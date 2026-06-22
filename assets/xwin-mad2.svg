@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0C447C"/>
+      <stop offset="100%" stop-color="#102a52"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#grad3)"/>
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" fill="#fff" font-family="VT323, monospace" font-size="50">XWIN MAD2</text>
+  <text x="50%" y="60%" text-anchor="middle" fill="#a6c9ff" font-family="Space Grotesk, sans-serif" font-size="24">Flutter mobile app</text>
+</svg>

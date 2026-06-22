@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3f5a8e"/>
+      <stop offset="100%" stop-color="#7e85c1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#grad)"/>
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" fill="#fff" font-family="VT323, monospace" font-size="50">ARTOFEX Studio</text>
+  <text x="50%" y="62%" text-anchor="middle" fill="#fde7c8" font-family="Space Grotesk, sans-serif" font-size="24">Laravel</text>
+</svg>

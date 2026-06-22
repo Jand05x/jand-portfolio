@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2060b0"/>
+      <stop offset="100%" stop-color="#0a2e5d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#grad2)"/>
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" fill="#fff" font-family="VT323, monospace" font-size="50">DDK Lounge</text>
+  <text x="50%" y="60%" text-anchor="middle" fill="#b8d9ff" font-family="Space Grotesk, sans-serif" font-size="24">Responsive landing page</text>
+</svg>
